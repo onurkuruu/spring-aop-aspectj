@@ -56,9 +56,9 @@ Pointcut ile seçilen join pointlerde ilgili kodların ne zaman çalıştırıla
  
  Spring AOP, AspectJ pointcut expression languageyi destekler.
  
-* + sembolü: İşaretlenen birimin alt birimlerini belirtir.
+* \+ sembolü: İşaretlenen birimin alt birimlerini belirtir.
 * .. sembolü: Metotlar için parametre sayısının ve tipinin önemsenmediğini, paketler için tüm alt paketlerin dahil edileceği anlamındadır.
-* * sembolü: Kullanım yerine göre metotlar, paketler, dönüş tipleri, sınıf isimleri vs. her şeyin kabul edileceği anlamına gelmektedir.
+* \* sembolü: Kullanım yerine göre metotlar, paketler, dönüş tipleri, sınıf isimleri vs. her şeyin kabul edileceği anlamına gelmektedir.
 
 Pointcut çeşitleri:
 
